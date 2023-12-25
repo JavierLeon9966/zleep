@@ -1,5 +1,7 @@
 {
     "name": "sof3/zleep",
+    "prefer-stable": true,
+    "minimum-stability": "dev",
     "license": "Apache-2.0",
     "type": "library",
     "scripts": {
@@ -8,7 +10,7 @@
     },
     "require": {
         "pocketmine/pocketmine-mp": "^5.0.0",
-        "sof3/await-generator": "^3.5.2"
+        "sof3/await-generator": "dev-master"
     },
     "require-dev": {
         "sof3/pharynx": "^0.3.0",
